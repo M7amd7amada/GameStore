@@ -2,3 +2,4 @@
 // Licensed under MIT license. See LICENSE file in the project root for license information.
 
 global using GameStore.Api.Models;
+global using GameStore.Api.Endpoints;

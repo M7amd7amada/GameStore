@@ -23,3 +23,9 @@ C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0
 C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.pdb
 C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0\ref\GameStore.Api.dll
+C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\bin\Debug\net7.0\MinimalApis.Extensions.dll
+C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\bin\Debug\net7.0\MiniValidation.dll
+C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.csproj.AssemblyReference.cache
+C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thegu\OneDrive\Desktop\AspCore\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.csproj.CopyComplete
